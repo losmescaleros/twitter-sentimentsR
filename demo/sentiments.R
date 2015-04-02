@@ -1,3 +1,6 @@
+## The following demo will show how to classify tweets from Twitter using
+## R and binary classifiers "love" and "hate".
+
 ## ---- pauseFunction ----
 pause <- function(){
   invisible(readline("\nPress <return> to continue: "))
@@ -8,8 +11,7 @@ promptForCred = function(){
   consumerSecret = readline("What is your Twitter consumer secret? ")
 }
 
-## The following demo will show how to classify tweets from Twitter using
-## R. We will walk through the various steps of the sentiment classification 
+## We will walk through the various steps of the sentiment classification 
 ## process, including data retrieval, data pre-processing, feature construction
 ## and selection, and finally, modeling and prediction.
 
