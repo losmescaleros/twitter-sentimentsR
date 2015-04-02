@@ -1,0 +1,9 @@
+Package: twitterSentimentsR
+Version: 1.0
+Date: 2015-03-27
+Title: Twitter Sentiments Analysis (Project 3)
+Author: Mitchell Neville <mdnevill@ncsu.edu>
+Maintainer: Mitchell Neville <mdnevill@ncsu.edu>
+Depends: R (>= 1.6.1)
+Description: The package analyzes tweets 
+License: GPL version 2 or newer
