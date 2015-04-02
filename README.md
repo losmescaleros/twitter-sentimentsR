@@ -56,8 +56,7 @@ R CMD build twitter-sentimentsR
 ````
 This should build a tar.gz file that can be used for installation. 
 4. In R Studio, for example, install the package. This may require changing
-the working directory to the proper folder, which can be done using 
-````setwd()````.
+the working directory to the proper folder, which can be done using ````setwd()````.
 
 ```` R
 > install.packages(<path to package>, repos=NULL, type="source")
